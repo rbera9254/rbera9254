@@ -1,7 +1,6 @@
 - 👋 Hi, I’m nikto
-- 👀 I’m interested in ...ethical hacking
-- I am a dedicated and enthusiastic learner in the field of cybersecurity, currently pursuing B.S.C. cybersecurity at Techno International New town. My passion for technology and security drives me to continuously expand my knowledge and skills in areas such as network security, ethical hacking, and Penetration tester
-- 📫 How to reach me ...
+-I ask “what if?” and my compiler answers “error.”  
+Exploring cyberspace one segfault at a time.
 
 <!---
 rbera9254/rbera9254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
